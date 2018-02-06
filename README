@@ -1,0 +1,12 @@
+# unity-shader-tests
+Unity simple shader tests
+
+This project contains a small set of old and new shader experiments for Unity.
+
+Some were programmed using tutorials, others are simple personal experiments
+
+Credits:
+ -- Ambient Light, Difusse Light, Specular Light: This shaders are based on tutorials from digitalerr0r (https://digitalerr0r.wordpress.com)
+ -- BlurShader: Based on 'cician' shader https://forum.unity3d.com/threads/simple-optimized-blur-shader.185327/#post-1267642 with some improvements and changes
+
+
